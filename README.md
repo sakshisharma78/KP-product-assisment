@@ -132,4 +132,3 @@ kp assessment/
 
 ---
 
-*Built with ❤️ for the assessment.*
